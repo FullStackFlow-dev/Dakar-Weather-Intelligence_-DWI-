@@ -1,5 +1,7 @@
 # Dakar Weather Intelligence (DWI)
 
+![Dakar Weather Intelligence](assets/images/DWI%20%E2%80%93%20Visuel%20principal.png)
+
 A weather data and decision-support platform focused on Dakar, Senegal. DWI is being developed as a practical engineering project that combines data ingestion, PostgreSQL storage, weather-risk analysis, a Python API, and Power BI analytics.
 
 > **Project status: early development.** The repository currently contains the initial Python and PostgreSQL setup. The ETL pipeline, alert engine, API endpoints, notifications, and Power BI model are planned work and are not yet implemented.
